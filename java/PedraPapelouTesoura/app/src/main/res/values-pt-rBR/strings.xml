@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pedra Papel ou Tesoura</string>
+    <string name="escolhaApp">"Escolha do APP "</string>
+    <string name="escolaAbaixo">Escolha uma opção abaixo</string>
+    <string name="empatamos">EMPATAMOS</string>
+    <string name="textGanhou">VOCÊ GANHOU!!!</string>
+    <string name="textPerder">VOCÊ PERDEU!!!</string>
+</resources>

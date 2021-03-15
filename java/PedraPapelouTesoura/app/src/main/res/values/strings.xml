@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rock -  paper - Scissors</string>
+    <string name="escolhaApp">Choice of APP</string>
+    <string name="escolaAbaixo">Choose an option below</string>
+    <string name="textGanhou">YOU WIN!!!</string>
+    <string name="textPerder">YOU LOSE!!!</string>
+    <string name="empatamos">WE TIE</string>
+</resources>
